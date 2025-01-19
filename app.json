@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "delivery-app-front",
-    "slug": "delivery-app-front",
+    "name": "Delivery-app",
+    "slug": "Delivery app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
